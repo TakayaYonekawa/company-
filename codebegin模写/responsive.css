@@ -1,0 +1,135 @@
+@media screen and (min-width:800px){
+    #nav-open{
+        display: none;
+    }
+   
+}
+
+@media screen and (max-width:1200px){
+    .container{
+        width: 100%;
+        overflow: hidden;
+    }
+    /*index2*/
+    table{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+        /*index3*/
+    .service-content-m,.service-content-l,.service-content-s{
+        width: 95%;
+    }
+
+    .service-content-l{
+        padding-bottom: 10px;
+    }
+
+           /*index6*/
+    
+
+}
+@media screen and (max-width:800px){
+    .header-logo{
+        height: 70px;
+        padding: 40px 0 0 40px;
+    }
+    .header-logo img{
+        width: 350px;
+    }
+    .main,.main2{
+        float: none;
+        padding-bottom: 10px;
+        width: 100%;
+    }
+    
+    .aside{
+        margin-left:10px;
+        width: 95%;
+        margin:0 0 20px 0 ;
+    }
+    .aside-container{
+        width: 100%;
+    }
+    .info-title{
+        margin:0;
+        width: 94%;
+    }
+    .read-content{
+        padding:0;
+    }
+    .menu-wrapper{
+    width: 95%;    
+    }
+    .menu-wrapper2, .menu-wrapper3, .menu-wrapper4, .menu-wrapper-company {
+        margin: 20px 10px 0 0;
+
+    }
+    .product-img{
+        width: 18%;
+    }
+    .product-img img{
+        width: 100px;
+        height: 60px;
+    }
+
+    .menu-content3{
+        height: 60px;
+    }
+    .menu-content3 a, .menu-content3 p {
+        margin: 0;
+        padding:0;
+        text-decoration: none;
+    }
+    /*バーを非表示*/
+    .navbar{
+        display: none;
+    }
+        /*index2*/
+        table{
+            width: 95%;
+            margin-bottom: 20px;
+        }
+        .table-wrapper{
+            margin-left: 0;
+            width: 100%;
+        }
+        .about p{
+            margin-left: 0;
+        }
+        
+        /*sample*/
+        .contact-info{
+            width: 89%;
+            padding: 10px;
+            font-size: 14px;
+            color: rgb(102,102,102);
+            }
+            
+        .contact-pic{
+            padding:10px; 
+            width:95%;
+            }
+            
+  
+}
+@media screen and (max-width:700px){
+
+}
+
+@media screen and (max-width:640px){
+    .menu-content3 a{
+       padding-left:100px;
+    }
+    .header-logo img{
+        width: 40%;
+    }
+    dd{
+        width: 95%;
+    }
+    .menu-wrapper,.menu-wrapper3{
+        padding: 8px;
+    }
+
+
+}
+
